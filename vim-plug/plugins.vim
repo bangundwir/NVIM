@@ -35,6 +35,8 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'EinfachToll/DidyouMean'
     Plug 'dense-analysis/ale'
     Plug 'pangloss/vim-javascript'
+    Plug 'leafgarland/typescript-vim'
+
     "new
     Plug 'mbbill/undotree'
     Plug 'tpope/vim-commentary'
