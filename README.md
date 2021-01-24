@@ -21,3 +21,8 @@
             - Cara Menjalankanya dengan cara (,n) 
                 - nnoremap ,n :!node "%"<CR>
     - Cara Paste file di vim dengan mengunakan `Ctrl + Shift + v`
+    - Cara Mengunakan emmet
+        - `ctrl+y,`
+        - html:5 
+        - h1+ul>(li>a)*10
+        - h1+ul>(li>a>img)*10
