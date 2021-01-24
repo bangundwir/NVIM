@@ -20,3 +20,4 @@
         - Javascript/NodeJs
             - Cara Menjalankanya dengan cara (,n) 
                 - nnoremap ,n :!node "%"<CR>
+    - Cara Paste file di vim dengan mengunakan `Ctrl + Shift + v`

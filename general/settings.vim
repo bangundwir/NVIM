@@ -3,7 +3,7 @@ set bg=light
 set go=a
 set mouse=a
 set nohlsearch
-set clipboard=unnamed
+set clipboard+=unnamedplus
 set noshowmode
 set noruler
 set laststatus=0

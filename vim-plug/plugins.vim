@@ -25,6 +25,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     Plug 'lukesmithxyz/vimling'
     Plug 'vimwiki/vimwiki'
     Plug 'bling/vim-airline'
+		Plug 'vim-airline/vim-airline-themes'
     Plug 'tpope/vim-commentary'
     Plug 'ap/vim-css-color'
     Plug 'mattn/emmet-vim'
