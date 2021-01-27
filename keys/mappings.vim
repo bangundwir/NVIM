@@ -54,3 +54,7 @@ nnoremap ,n :!node "%"<CR>
 
 " commentary
 noremap <leader>/ :Commentary<CR>
+
+" Setting Warp
+noremap <leader>m :set linebreak<CR>
+noremap <leader>n :set nolinebreak<CR>

@@ -23,10 +23,10 @@ set smartcase
 	syntax on
 	syntax enable
 	set encoding=utf-8
-	set tabstop=4
-	set softtabstop=4
+	set tabstop=2
+	set softtabstop=2
 	set expandtab
-	set shiftwidth=4
+	set shiftwidth=2
 	set autochdir
 	set undofile
 	set undodir=~/.config/nvim/undodir
