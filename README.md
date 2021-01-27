@@ -27,5 +27,5 @@
         - h1+ul>(li>a)*10
         - h1+ul>(li>a>img)*10
     - Navigasi wrap
-        - warp < , m>
-        - nowarp <, n>
+        - warp < , z>
+        - nowarp <, x>
