@@ -26,3 +26,6 @@
         - html:5 
         - h1+ul>(li>a)*10
         - h1+ul>(li>a>img)*10
+    - Navigasi wrap
+        - warp < , m>
+        - nowarp <, n>
