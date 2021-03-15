@@ -58,3 +58,6 @@ noremap <leader>/ :Commentary<CR>
 " Setting Warp
 noremap <leader>z :set linebreak<CR>
 noremap <leader>x :set nolinebreak<CR>
+
+map <buffer> <silent> <F8> :w<Cr>:!clear<Cr>:!python3 %<Cr>
+
