@@ -11,6 +11,9 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
 ```
 
+## Install TMUX
+https://github.com/gpakosz/.tmux
+
 ## My Configuration 
 - Setting Vim
     - Memperbarui Pengaturan
