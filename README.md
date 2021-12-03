@@ -43,3 +43,10 @@ https://github.com/gpakosz/.tmux
     - Navigasi wrap
         - warp < , z>
         - nowarp <, x>
+       
+ ### NVIM v-.7.0-dev
+ ```
+ sudo add-apt-repository ppa:neovim-ppa/unstable
+ sudo apt-get update
+ sudo apt-install neovim
+ ```
