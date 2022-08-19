@@ -43,6 +43,8 @@ https://github.com/gpakosz/.tmux
     - Navigasi wrap
         - warp < , z>
         - nowarp <, x>
+    - Cara mengati tulisan yang sama
+       - :%s/tulisan yang mau diganti/dan tulisan yang diganti
        
  ### NVIM v-.7.0-dev
  ```
